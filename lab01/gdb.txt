@@ -1,9 +1,9 @@
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
+1. You can use `run <arglist>` or set args <arglist>.
+2. With `break` or `b`.
+3. With `next` or `n`.
+4. With `step` or `s`.
+5. With `continue` or `c`.
+6. With `print` or `p`.
+7. With `watch <var name>`.
+8. With `info locals`.
+9. With `q`.

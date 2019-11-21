@@ -11,3 +11,9 @@ int main(int argc, char *argv[]) {
 
     return 0;
 }
+
+/*
+ * To avoid needing user input to debug this program, we can:
+ * 1. Use a pipe: `echo 'Paul' | ./int_hello`
+ * 2. Or input redirection: `./int_hello < input.txt`
+ */*
